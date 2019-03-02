@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spawn
+  - Tomato
+  - Onion
+  - Potato
+  - Pumpkin
+  - Mushroom
+  - Lettuce
+  - Leek
+  - Peas
+  - Eggplant
+  - Cucumber
+  - Cauliflower
+  - Carrot
+  - Corn
+  - Broccoli
+  - Capsicum
+  - Watermelon
+  - Strawberry
+  - Pineapple
+  - Orange
+  - Mango
+  - Lemon
+  - Grape
+  - Banana
+  - Apple
+  - Options
+  - Fruits
+  - Vegetables
+  - Edible
+  - NumberOption
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TopMost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

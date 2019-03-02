@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudioAdder">
+    <Position X="35.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AudioAdder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BirdsScript">
+    <Position X="37" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAACCAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\BirdsScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterManager">
+    <Position X="38.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAgCAAEA=</HashCode>
+      <FileName>Assets\Scripts\CharacterManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CountingSceneScript">
+    <Position X="40.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAACCAAAAAAAAIEAAABBABAAAAAEIAAIACBAgI=</HashCode>
+      <FileName>Assets\Scripts\CountingSceneScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dragger" BaseTypeListCollapsed="true">
+    <Position X="42.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAABAAABAEAAAAAAAAiAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Dragger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EdibleCreator">
+    <Position X="44" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAOgBCAAAAAAFAHAAAIREEAAgAAAARAAAkQRAMAECg=</HashCode>
+      <FileName>Assets\Scripts\EdibleCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fruit" Collapsed="true">
+    <Position X="17.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEABAgAAAAAAEQAAAAAAEAAAAAAAAgAAEAEAoAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Apple">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banana">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grape">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lemon">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mango">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orange">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pineapple">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strawberry">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Watermelon">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameListScript">
+    <Position X="35.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQIAAIAAAAAAAAAAAEAAAAAAAAAAgAAAQAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameListScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMathsScript">
+    <Position X="37" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAACCAAAAAAAAAEAAACBAAAAAAAEIAAAQABCAM=</HashCode>
+      <FileName>Assets\Scripts\GameMathsScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameRearrangeScript">
+    <Position X="38.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAIAKCAAAAAAAAKEAAAABABAAAAIAIAAoAARAgA=</HashCode>
+      <FileName>Assets\Scripts\GameRearrangeScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalizationData">
+    <Position X="40.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LocalizationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalizationItem">
+    <Position X="24.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LocalizationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImportRecipe">
+    <Position X="37" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LocalizationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe">
+    <Position X="26.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LocalizationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeData">
+    <Position X="28.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LocalizationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalizationManager">
+    <Position X="26.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAGAAAAAAABAAAAAAABAAAAAABIAAAAAEAAAAAAEEA=</HashCode>
+      <FileName>Assets\Scripts\LocalizationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalizedText">
+    <Position X="28.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LocalizedText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemorySceneScript">
+    <Position X="30" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAoAACCAAAAAAAAYEAAABBABAAAAAEIAAIAABAhI=</HashCode>
+      <FileName>Assets\Scripts\MemorySceneScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Odd1OutScript">
+    <Position X="31.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAQCCAAAAAAAAIEAAABBABAAAAAAKAAAAABAgA=</HashCode>
+      <FileName>Assets\Scripts\Odd1OutScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PermanentObject">
+    <Position X="33.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PermanentObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipesSceneScript">
+    <Position X="30" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAAACCIQAAAAAAoEAQABBABAAAAAAKAAAAABAgA=</HashCode>
+      <FileName>Assets\Scripts\RecipesSceneScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RewardsManager">
+    <Position X="31.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RewardsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneController">
+    <Position X="33.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiQAAAAAACAAAAUkAAAAQAAAAABAAABAABQAAAACAEA=</HashCode>
+      <FileName>Assets\Scripts\SceneController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingsManager">
+    <Position X="40.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAQggAKAABAAAAABCAAwAAAEAAAQAAEQ=</HashCode>
+      <FileName>Assets\Scripts\SettingsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopManager">
+    <Position X="35.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASACQQAACIQAAAAAAAAAAAAAAAAAAAAgAAAABCACAA=</HashCode>
+      <FileName>Assets\Scripts\ShopManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="42.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAACAAAACAAAAgAAAAAABAIAAAAAAAIAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vegetable" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAgAAAAAAEQAAAAAAEAAAAAAAAgAAEAEApAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Tomato">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Onion">
+    <Position X="17.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Potato">
+    <Position X="22.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pumpkin">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mushroom">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lettuce">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leek">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peas">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eggplant">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cucumber">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Corn">
+    <Position X="19.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cauliflower">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrot">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capsicum">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broccoli">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IconPreview">
+    <Position X="33.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>Assets\Simple UI\Samples\IconPreview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.ProcessorScript">
+    <Position X="24.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ProcessorScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IEdible">
+    <Position X="42.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAAAEQAAAAAAEAAAAAAAAgAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IEdible.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
