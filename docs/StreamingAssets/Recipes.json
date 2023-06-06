@@ -1,0 +1,189 @@
+{
+  "recipes": [
+    {
+      "name": "Mix salad",
+      "recipeData": [
+        {
+          "count": 1,
+          "edible": "Onion"
+        },
+        {
+          "count": 3,
+          "edible": "Tomato"
+        },
+        {
+          "count": 2,
+          "edible": "Lettuce"
+        },
+        {
+          "count": 1,
+          "edible": "Lemon"
+        }
+      ]
+    },
+    {
+      "name": "Lemonade",
+      "recipeData": [
+        {
+          "count": 2,
+          "edible": "Lemon"
+        }
+      ]
+    },
+    {
+      "name": "Tomato soup",
+      "recipeData": [
+        {
+          "count": 2,
+          "edible": "Onion"
+        },
+        {
+          "count": 1,
+          "edible": "Carrot"
+        },
+        {
+          "count": 2,
+          "edible": "Tomato"
+        }
+      ]
+    },
+    {
+      "name": "Mango juice",
+      "recipeData": [
+        {
+          "count": 2,
+          "edible": "Mango"
+        }
+      ]
+    },
+    {
+      "name": "Carrot juice",
+      "recipeData": [
+        {
+          "count": 2,
+          "edible": "Carrot"
+        }
+      ]
+    },
+    {
+      "name": "Orange juice",
+      "recipeData": [
+        {
+          "count": 4,
+          "edible": "Orange"
+        }
+      ]
+    },
+    {
+      "name": "Mix fruit juice",
+      "recipeData": [
+        {
+          "count": 2,
+          "edible": "Orange"
+        },
+        {
+          "count": 2,
+          "edible": "Mango"
+        },
+        {
+          "count": 1,
+          "edible": "Lemon"
+        },
+        {
+          "count": 1,
+          "edible": "Pineapple"
+        }
+      ]
+    },
+    {
+      "name": "Apple juice",
+      "recipeData": [
+        {
+          "count": 4,
+          "edible": "Apple"
+        }
+      ]
+    },
+    {
+      "name": "Roasted mixed vegetables",
+      "recipeData": [
+        {
+          "count": 2,
+          "edible": "Capsicum"
+        },
+        {
+          "count": 1,
+          "edible": "Eggplant"
+        },
+        {
+          "count": 2,
+          "edible": "Tomato"
+        },
+        {
+          "count": 1,
+          "edible": "Broccoli"
+        },
+        {
+          "count": 1,
+          "edible": "Carrot"
+        }
+      ]
+    },
+    {
+      "name": "Jacket potato",
+      "recipeData": [
+        {
+          "count": 4,
+          "edible": "Potato"
+        }
+      ]
+    },
+    {
+      "name": "Bombay sandwich",
+      "recipeData": [
+        {
+          "count": 1,
+          "edible": "Potato"
+        },
+        {
+          "count": 1,
+          "edible": "Tomato"
+        },
+        {
+          "count": 1,
+          "edible": "Capsicum"
+        },
+        {
+          "count": 1,
+          "edible": "Onion"
+        },
+        {
+          "count": 1,
+          "edible": "Cucumber"
+        }
+      ]
+    },
+    {
+      "name": "Sweetcorn soup",
+      "recipeData": [
+        {
+          "count": 2,
+          "edible": "Corn"
+        }
+      ]
+    },
+    {
+      "name": "Hot and sour eggplant",
+      "recipeData": [
+        {
+          "count": 3,
+          "edible": "Eggplant"
+        },
+        {
+          "count": 2,
+          "edible": "Capsicum"
+        }
+      ]
+    }
+  ]
+}
