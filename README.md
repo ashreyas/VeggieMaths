@@ -9,7 +9,7 @@
 habits in children by introducing them to vegetables using a maths based fun game.
 The game includes 6 different game modes, rewards system, character selection and multi language support.</h4>
 <p align="center">
-<h3 align="center">Screenshots</h4>
+<h3 align="center">Screenshots (Click to Play!)</h4>
   <p align="center">
 	  <a target="_" href="https://ashreyas.github.io/VeggieMaths/">
 		<img align="center" width="800px" alt="Main Menu" src="docs/Game Screen Main Menu.png">
